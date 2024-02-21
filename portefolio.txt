@@ -1,8 +1,6 @@
 Portefolio - PPP :
 
 
- 
-
  - Plan website : 
 	- navbar sobre
 	- theme sombre & assez sobre (pas beacoup de couleurs & palette consitante, pas trop de complexitée)
@@ -19,3 +17,6 @@ Portefolio - PPP :
 	- projets
 	- projets passés (SAE, perso, ...)
 	- 
+
+Exemples : 
+- https://www.behance.net/gallery/144641409/Personal-Portfolio-Web-Design?tracking_source=search_projects|web+design+portfolio&l=9
