@@ -1,0 +1,21 @@
+Portefolio - PPP :
+
+
+ 
+
+ - Plan website : 
+	- navbar sobre
+	- theme sombre & assez sobre (pas beacoup de couleurs & palette consitante, pas trop de complexitée)
+	- responsive design
+	- traduction (fr & en supported)
+	- art/images (art custom possible)
+	- trucs fun (animations?, 3D?, ...?)
+
+- Self-Hosting (portefolio, site perso, cloud perso, gitlab?, ...)
+
+ - Homepage :
+	- info generales
+	- compétences (info, languages, ...)
+	- projets
+	- projets passés (SAE, perso, ...)
+	- 
