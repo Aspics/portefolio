@@ -1,5 +1,9 @@
 body {
     background-color: rgb(70, 65, 65);
+    padding: 20px;
+}
+body {
+    background-color: rgb(70, 65, 65);
 }
 /* Styles for the navigation bar */
 nav {
