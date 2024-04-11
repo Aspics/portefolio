@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+    <link rel="stylesheet" href="../css/template.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="main.html">Main</a></li>
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="contact.html">Contact Me</a></li>
+        </ul>
+    </nav>
+
+    <div id="randomText"></div>
+
+    <script>
+        // Array of random texts
+        var texts = [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+            "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ];
+
+        // Get a random index from the array
+        var randomIndex = Math.floor(Math.random() * texts.length);
+
+        // Get the random text
+        var randomText = texts[randomIndex];
+
+        // Set the random text in the div
+        document.getElementById("randomText").innerText = randomText;
+    </script>
+
+</body>
+</html>
