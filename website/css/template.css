@@ -1,1 +1,36 @@
-jbivze
+body {
+    background-color: rgb(70, 65, 65);
+}
+
+nav {
+    width: 100%;
+    background-color: grey; 
+    padding: 10px 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    border: 2px solid rgb(89, 88, 88);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: darkgray;
+}
+
