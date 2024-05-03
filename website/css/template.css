@@ -1,20 +1,20 @@
 body {
-    background-color: rgb(70, 65, 65);
+    background-color: black;
+    color: white;
     padding: 20px;
 }
-body {
-    background-color: rgb(70, 65, 65);
-}
+
 /* Styles for the navigation bar */
 nav {
     width: 100%;
-    background-color: grey; 
-    padding: 10px 0;
+    background-color: #191F2D; 
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center; 
-    border: 2px solid rgb(89, 88, 88);
+    border: 2px solid #415C87;
+    height: 40px;
+    margin-bottom: 20px;
 }
 
 nav ul {
@@ -22,19 +22,29 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
+    text-align: center;
+    height: 100%;
 }
 
 nav li {
-    margin: 0 10px;
+    color: #415C87;
+    padding: 10px 20px;
 }
 
 nav a {
     text-decoration: none;
-    color: #413636;
     font-weight: bold;
+    color: #415C87;
 }
 
-nav a:hover {
-    color: darkgray;
+nav li:hover{
+    background-color: #415C87;
 }
+
+nav li:hover > a {
+    color: white;
+}
+
+
+
 
