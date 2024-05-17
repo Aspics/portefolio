@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     padding: 20px;
+    
 }
 
 /* Styles for the navigation bar */
@@ -55,5 +56,17 @@ h1{
     border: 2px solid #242b3e;
 }
 
+h2{
+    font-size: 19px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.h2texte{
+    padding-left: 10px;
+}
 
 
+p{
+    text-align: justify;
+}
