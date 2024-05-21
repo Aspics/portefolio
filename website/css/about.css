@@ -11,34 +11,3 @@ nav li:hover{
 nav li:hover > a {
     color: white;
 }
-
-.img_txt {
-    display: flex;
-    justify-content: center;
-}
-
-img {
-    border-right: 2px solid#415C87;
-    margin: 20px;
-    padding: 20px;
-}
-
-
-.containertext{
-    background-color: #191F2D;
-    border-bottom: 2px solid #415C87;
-    border-right: 2px solid #415C87;
-    border-left: 2px solid #415C87;
-
-}
-
-h2{
-    border-bottom: 2px solid #415C87;
-    border-top: 2px solid #415C87;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-p{
-    padding-right: 10px;
-}
