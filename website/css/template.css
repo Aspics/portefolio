@@ -81,10 +81,7 @@ h2{
     padding-left: 10px;
 }
 
-
-
-
-.img_txt {
+.txt{
     display: flex;
     justify-content: center;
     border-bottom:  2px solid #415C87;
@@ -93,9 +90,9 @@ h2{
 img {
     border-right: 2px solid#415C87;
     margin: 20px;
+    margin-right: 0px;
     padding: 20px;
 }
-
 
 .containertext{
     background-color: #191F2D;
@@ -105,9 +102,15 @@ img {
 
 }
 
-
 p{
     padding-right: 20px;
     padding-left: 20px;
     text-align: justify;
 }
+
+h3{
+    padding-left: 20px;
+    font-size: 15px;
+    font-style: normal;
+}
+
