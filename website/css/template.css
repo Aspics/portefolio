@@ -85,7 +85,7 @@ h2{
 
 .txt{
     display: flex;
-    justify-content: center;
+    justify-content: left;
     border-bottom:  2px solid #415C87;
 }
 
