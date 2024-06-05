@@ -11,3 +11,9 @@ nav li:hover{
 nav li:hover > a {
     color: white;
 }
+
+/* Styles pour la page*/
+.titlelink{
+    color: white;
+    text-decoration: none;
+}
